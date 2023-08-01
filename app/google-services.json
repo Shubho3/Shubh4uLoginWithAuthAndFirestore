@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786224411195",
+    "project_id": "authapp-e88c6",
+    "storage_bucket": "authapp-e88c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786224411195:android:729cde23cc00a0afc7e21e",
+        "android_client_info": {
+          "package_name": "com.shubh4u.loginwithfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786224411195-e7vni42kuivu3vh4q4pratq3o1fh4h3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmK_2F9DMzVjEqllGVO3rbajAtDaNWBkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786224411195-e7vni42kuivu3vh4q4pratq3o1fh4h3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
